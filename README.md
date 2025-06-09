@@ -227,10 +227,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 ## Thryft Budget App APK Repository: [https://github.com/CalebPerumal28/ThryftAppBuildApkPOE.git](https://github.com/CalebPerumal28/ThryftAppBuildApkPOE.git)
 ---
 ## Video Demonstration with voice over showing app mirrored from physical device to android studio in order to easily demonstrate data entries in Firebase Auth and Firestore DB
-## (OneDrive Shared Link):
+## (OneDrive Shared Link):[https://dlssa-my.sharepoint.com/:v:/g/personal/caleb_dlssa_onmicrosoft_com/EXX1idjCkUtPqGdmi7aXupcB9TDfNiteit3gIg7AYvR2jg](https://dlssa-my.sharepoint.com/:v:/g/personal/caleb_dlssa_onmicrosoft_com/EXX1idjCkUtPqGdmi7aXupcB9TDfNiteit3gIg7AYvR2jg)
 ---
 ## Video Demonstration of screenrecordign via the physical device (no voice over)
-## (OneDrive Shared Link):
+## (OneDrive Shared Link):[https://dlssa-my.sharepoint.com/:v:/g/personal/caleb_dlssa_onmicrosoft_com/EeZlozB55o1Hg-5sKRg2_LoBrLTA7PYUBO4bRkJOOy8sVQ](https://dlssa-my.sharepoint.com/:v:/g/personal/caleb_dlssa_onmicrosoft_com/EeZlozB55o1Hg-5sKRg2_LoBrLTA7PYUBO4bRkJOOy8sVQ)
 ---
 ## 📚 15. References
 
