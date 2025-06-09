@@ -1,6 +1,6 @@
 # 💰📱 Thryft Budget App
 
-Module Name: Programming 3A \[PROG7311]
+Module Name: Programming 3A \[PROG7313]
 Assessment Type: PoE - Part 3 (Final)
 IIE Varsity College Westville
 
