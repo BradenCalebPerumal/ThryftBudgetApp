@@ -31,10 +31,11 @@
 10. 🗒️ Change Log  
 11. 👥 Authors & Contributors  
 12. ⚖️ MIT License  
-13. ❓ Frequently Asked Questions (FAQ)  
-14. 🔗 Links  
-15. 📱 App APK  
-16. 📚 References  
+13. ❓ Frequently Asked Questions (FAQ)
+14. 🎥 Demonstration Videos
+15. 🔗 Links  
+16. 📱 App APK  
+17. 📚 References  
 
 ---
 ## ✨ 1. Introduction
@@ -237,15 +238,28 @@ jobs:
 - ❓ Where are images stored? → Locally via URI  
 
 ---
-## 🔗 14. Links
+## 🎥 14) Demonstration Videos
+
+### 🎙️ With Voice Over  
+*Video demonstration showing the app mirrored from a physical device to Android Studio, allowing for an easy demonstration of data entries in Firebase Auth and Firestore DB.*  
+[📹 **Watch Video**](https://dlssa-my.sharepoint.com/:v:/g/personal/caleb_dlssa_onmicrosoft_com/EXX1idjCkUtPqGdmi7aXupcB9TDfNiteit3gIg7AYvR2jg)
+
+---
+
+### 📱 Without Voice Over  
+*Screen recording taken directly from the physical device (no narration).*  
+[📹 **Watch Video**](https://dlssa-my.sharepoint.com/:v:/g/personal/caleb_dlssa_onmicrosoft_com/EeZlozB55o1Hg-5sKRg2_LoBrLTA7PYUBO4bRkJOOy8sVQ)
+
+---
+## 🔗 15. Links
 - 📂 [GitHub Repository](https://github.com/VCWVL/prog7313-poe-CalebPerumal28.git)  
 
 ---
-## 📱 15. App APK
+## 📱 16. App APK
 - 📂 [APK Repo](https://github.com/VCWVL/prog7313-poe-CalebPerumal28.git)  
 
 ---
-## 📚 16. References  
+## 📚 17. References  
 
 - 📺 **BroCode** – *Android Development for Beginners* – [YouTube Channel](https://www.youtube.com/@BroCodez) *(Accessed: 2 May 2025)*  
 
