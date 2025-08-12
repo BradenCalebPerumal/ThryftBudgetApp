@@ -225,7 +225,8 @@ jobs:
 
 ---
 ## ⚖️ 12. MIT License
-*(MIT License Text)*
+- ThryftBudgetApp is licensed under the MIT License. You are free to use, modify, and distribute the project with proper credit.
+
 
 ---
 ## ❓ 13. Frequently Asked Questions (FAQ)
@@ -240,7 +241,7 @@ jobs:
 
 ---
 ## 📱 15. App APK
-*(Put your APK GitHub link here)*
+- 📂 [APK Repo](https://github.com/VCWVL/prog7313-poe-CalebPerumal28.git)  
 
 ---
 ## 📚 16. References  
