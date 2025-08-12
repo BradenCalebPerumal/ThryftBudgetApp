@@ -12,8 +12,6 @@
 </div>
 
 
-**🏫 Module Name:** Programming 3A [PROG7313]  
-**📝 Assessment Type:** PoE - Part 3 (Final)  
 **🎓 Institution:** IIE Varsity College Westville  
 
 </div>
