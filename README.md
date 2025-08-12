@@ -220,7 +220,8 @@ jobs:
 
 ---
 ## 👥 11. Authors & Contributors
-- 👨‍💻 Braden Caleb Perumal (ST10287165)  
+ 👨‍💻 Braden Caleb Perumal (ST10287165)  
+  📧 **Email:** [calebperumal28@gmail.com](mailto:calebperumal28@gmail.com)
 
 
 ---
