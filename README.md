@@ -12,7 +12,6 @@
 </div>
 
 
-**🎓 Institution:** IIE Varsity College Westville  
 
 </div>
 
@@ -252,11 +251,10 @@ jobs:
 
 ---
 ## 🔗 15. Links
-- 📂 [GitHub Repository](https://github.com/VCWVL/prog7313-poe-CalebPerumal28.git)  
-
+- 📂 [GitHub Repository](https://github.com/BradenCalebPerumal/ThryftBudgetApp.git)  
 ---
 ## 📱 16. App APK
-- 📂 [APK Repo](https://github.com/VCWVL/prog7313-poe-CalebPerumal28.git)  
+- 📂 [APK Repo](https://github.com/CalebPerumal28/ThryftAppBuildApk.git)  
 
 ---
 ## 📚 17. References  
