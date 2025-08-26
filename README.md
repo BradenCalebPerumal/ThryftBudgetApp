@@ -220,9 +220,11 @@ jobs:
 
 ---
 ## 👥 11. Authors & Contributors
- 👨‍💻 Braden Caleb Perumal (ST10287165)  
+ 👨‍💻 Braden Caleb Perumal 
   📧 **Email:** [calebperumal28@gmail.com](mailto:calebperumal28@gmail.com)
-
+  
+ 👨‍💻 Nikhile Reddy 
+  📧 **Email:** [nikhilereddy@gmail.com](mailto:nikhilereddy@gmail.com)
 
 ---
 ## ⚖️ 12. MIT License
